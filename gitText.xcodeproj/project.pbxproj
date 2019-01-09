@@ -16,6 +16,7 @@
 		F0B2F8B721E5D838000C1C83 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B2F8B621E5D838000C1C83 /* main.m */; };
 		F0B2F8C121E5D838000C1C83 /* gitTextTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B2F8C021E5D838000C1C83 /* gitTextTests.m */; };
 		F0B2F8CC21E5D838000C1C83 /* gitTextUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B2F8CB21E5D838000C1C83 /* gitTextUITests.m */; };
+		F0B2F8DB21E5D8FA000C1C83 /* GNMIanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B2F8DA21E5D8FA000C1C83 /* GNMIanViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		F0B2F8C721E5D838000C1C83 /* gitTextUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitTextUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0B2F8CB21E5D838000C1C83 /* gitTextUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitTextUITests.m; sourceTree = "<group>"; };
 		F0B2F8CD21E5D838000C1C83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0B2F8D921E5D8FA000C1C83 /* GNMIanViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GNMIanViewController.h; sourceTree = "<group>"; };
+		F0B2F8DA21E5D8FA000C1C83 /* GNMIanViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GNMIanViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				F0B2F8A521E5D837000C1C83 /* AppDelegate.m */,
 				F0B2F8A721E5D837000C1C83 /* ViewController.h */,
 				F0B2F8A821E5D837000C1C83 /* ViewController.m */,
+				F0B2F8D921E5D8FA000C1C83 /* GNMIanViewController.h */,
+				F0B2F8DA21E5D8FA000C1C83 /* GNMIanViewController.m */,
 				F0B2F8AA21E5D837000C1C83 /* Main.storyboard */,
 				F0B2F8B021E5D838000C1C83 /* Assets.xcassets */,
 				F0B2F8B221E5D838000C1C83 /* LaunchScreen.storyboard */,
@@ -269,6 +274,7 @@
 				F0B2F8A621E5D837000C1C83 /* AppDelegate.m in Sources */,
 				F0B2F8B721E5D838000C1C83 /* main.m in Sources */,
 				F0B2F8AF21E5D837000C1C83 /* gitText.xcdatamodeld in Sources */,
+				F0B2F8DB21E5D8FA000C1C83 /* GNMIanViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
